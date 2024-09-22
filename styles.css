@@ -1,0 +1,47 @@
+.bordered-image {
+    border-style: solid;
+    border-width: 30px;
+    border-left-color:#ffefd5;
+    border-bottom-color: lightgreen;
+    border-top-color: skyblue;
+    border-right-color:lightpink;
+}
+
+table thead tr th{
+    padding-inline: 30px;
+    font-size: 20px;
+}
+table tbody tr td{
+    padding-inline: 30px;
+    font-size: 20px;
+}
+.pink {
+    color: pink;
+}
+
+.blue {
+    color: black;
+}
+.blue:hover{
+    color: blue;
+}
+
+.orange {
+    color: orange;
+}
+
+.red {
+    color: red;
+}
+
+.pink-hover {
+    color: pink;
+}
+
+.orange-hover {
+    color: orange;
+}
+
+.red-hover {
+    color:red;
+}
