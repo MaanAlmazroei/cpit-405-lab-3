@@ -20,9 +20,6 @@ table tbody tr td{
 }
 
 .blue {
-    color: black;
-}
-.blue:hover{
     color: blue;
 }
 
@@ -32,16 +29,4 @@ table tbody tr td{
 
 .red {
     color: red;
-}
-
-.pink-hover {
-    color: pink;
-}
-
-.orange-hover {
-    color: orange;
-}
-
-.red-hover {
-    color:red;
 }
